@@ -1,0 +1,50 @@
+DAT NGUYEN
+949-738-2033 | Irvine, CA | thanhdat19022001@gmail.com | GitHub | LinkedIn
+EDUCATION
+ 
+California State Polytechnic University Pomona	Aug 2023 - May 2025
+M.S in Computer Science, GPA: 4.00/4.00	Pomona, CA
+University of Science VNUHCM	Aug 2019 - Aug 2023
+B.S in Computer Science, GPA: 3.92/4.00	Ho Chi Minh, Vietnam
+TECHNICAL SKILLS
+ 
+•	JavaScript | TypeScript | Python | HTML | CSS | Java | Golang |SQL | Node.js | Express | React.js | Vue.js | Angular | Redux | Saga | Tailwind | Recoil | Material UI | MongoDB | Socket.IO | RESTful APIs | Responsive | Git | Agile | Scrum | Azure Functions | Webpack | Babel | NPM & Yarn
+•	PyTorch | TensorRT | Voxel51 | Numpy | Pandas | SageMaker | AWS | EC2 | S3 | Cloud Computing | Docker | Jest | Enzyme | CI/CD
+•	Microservices | OOP | Front-end | Backend | Full-Stack | Machine Learning Research | Data Structure |Algorithm | Problem Solving
+ PROFESSIONAL EXPERIENCE	
+California State Polytechnic University Pomona	Jan 2024 – Expected May 2025
+Research Assistant – Mobility Scooter Lab	Pomona, CA, USA
+•	Trained and fine-tuned various human pose estimation models (YOLOv8, ViTPose, MoveNet) using PyTorch on HPC Delta Access server.
+•	Deployed models on NVIDIA Jetson Orin Nano (edge devices) using TensorRT, achieving a 4x improvement in inference speed.
+•	Conducted various research on Event Camera Data, performing various privacy-preserving attacks, including Membership Inference Attack, Inversion Attack and multiple techniques to defend against those attacks like Siamese Networks with LLMs, Attention-based CNN backbone.
+Jaik Solutions Inc.	June 2022 – June 2023
+Software Engineer	Spokane, WA, USA
+•	Developed responsive learning managing system (LMS) frontend applications using React.js, Redux, Mux Video, Context API, and React Query
+for user and admin portals.
+•	Built a microservices backend with Azure Functions, Node.js core, Key Vault, and MongoDB, efficiently managing concurrent services and collaborated with tech leader to implement a DDD-structured codebase for enhanced scalability and maintainability.
+•	Deployed scalable, real-time APIs that support live streaming, real-time voting, and user data management for 5,000 users, leveraging Socket.IO and Mux Live Streaming.
+FPT Software	Dec 2021 - June 2023
+Software Engineer	Ho Chi Minh, Vietnam
+•	Implemented frontend enterprise website for BFI Finance’s Motorcycle Loan Platform using React.js, Redux, Thunk, GitHub Workflow CI & CD.
+•	Integrated the Advance AI plugin with React.js for eKYC automation verification, reducing 80% required loan physical documents and saving over $50,000 in first quarter of launching according to BFI Financial Statement.
+•	Led the design of a mock API flow using Mirage.js on the front end, enabling concurrent development despite incomplete APIs to ensure timely delivery of both frontend and backend.
+•	Collaborated with a 10-member frontend team at RSupport to maintain a real-time video calling application using WebRTC, React.js, Redux, and Redux Saga, implementing over 4 advanced features from scratch, including a Drawing Board, Document Sharing, Editing Document and Chat.
+•	Conducted peer code reviews, performed Jest unit tests ensuring met 80% test coverage standard.
+Cybersoft Academy	Jun 2020 – Dec 2021
+Software Engineer Intern	Ho Chi Minh, Vietnam
+•	Developed an educational platform using React.js, Node.js, Express.js, and MongoDB, enabling over 200 students to gain hands-on experience in computer science and practical skills in modern libraries and frameworks.
+•	Designed and optimized MongoDB database queries by indexing frequently used fields, reducing resource access latency by 9%.
+•	Promoted to Associate Software Engineer after 6-month internship: continuing to maintain LMS system by using MERN stack.
+PERSONAL PROJECTS
+ 
+•	OnlineUp (2022). Created a multi-platform application (Backend, Front-end with Mobile and Web applications) designed for businesses to offer customers the option of queuing online, eliminating the need for in-person presence. React, MongoDB, Spring Boot Java. GitHub
+•	Image To Text Translation (2021). Led a team of 3 developing an image translation mobile app enhancing language learning experiences. (SOTA text recognition, language translation model). Java Android, Google Machine Learning Kit. GitHub
+CERTIFICATIONS AND AWARDS
+•	5th place: at Accessibility, Vision, and Autonomy Meet (CVPR workshop) human pose estimation track (2024)
+•	Udacity Certifications: Completed 4 nanodegree Computer Vision, Deep Learning, AWS DevOps Engineer, AWS Cloud Architect (2021)
+•	Second prize: out of 229 best projects at national level in Vietnam National Science and Engineering Fair (Vietnamese ISEF) (2019)
+•	Gold medal: in Mathematics at 30-4 Olympiad Competition for highschool student in Vietnam (2017)
+PUBLICATIONS
+ 
+1.	Thanh-Dat Nguyen, Chenrui Zhang, Melvin Gitbumrungsin, Amar Raheja, and Tingting Chen. (2024). Remote Kinematic Analysis for Mobility Scooter Riders Leveraging Edge AI. Proceedings of the AAAI Symposium Series, Vol 4, No 1, 314-318. https://doi.org/10.1609/aaaiss.v4i1.31808
+2.	Thanh-Dat Nguyen, Quoc-Khanh Mai, Minh Hoang Pham, and Thai Son Tran. (2023). Tensor Analysis Of Convolutional Neural Network For Reducing Network Parameters. In Proceedings of the 12th International Symposium on Information and Communication Technology (SOICT '23). Association for Computing Machinery, New York, NY, USA, 197–204. https://doi.org/10.1145/3628797.3629005
